@@ -114,15 +114,23 @@ Volume
 Price Action
 
 📖 Glossário
+
 Ichimoku Kinko Hyo: gráfico de equilíbrio em um relance
+
 Kumo: nuvem que indica tendência
+
 Tenkan-sen: linha de conversão (curto prazo)
+
 Kijun-sen: linha base (equilíbrio)
+
 Chikou Span: linha atrasada
+
 TK Cross: cruzamento entre Tenkan e Kijun
+
 Kumo Twist: mudança de cor da nuvem indicando possível reversão
 
 🔁 Prompts Reutilizáveis
+
 "Explique o Ichimoku Cloud de forma simples para iniciantes"
 "Quais são os principais sinais de compra e venda no Ichimoku?"
 "Crie uma estratégia de trading usando Ichimoku Cloud para criptomoedas"
