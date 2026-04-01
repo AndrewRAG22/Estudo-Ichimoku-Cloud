@@ -19,7 +19,7 @@ https://www.investopedia.com/terms/i/ichimoku-cloud.asp
 
 Durante o desenvolvimento do estudo, diferentes estratégias de prompts foram utilizadas para melhorar a qualidade das respostas obtidas com IA.
 
-🔹 Prompt 1 (Inicial - Genérico)
+🔹 Prompt 1 (Inicial)
 
 Pergunta:
 "Explique o indicador Ichimoku"
