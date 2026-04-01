@@ -132,7 +132,11 @@ Kumo Twist: mudança de cor da nuvem indicando possível reversão
 🔁 Prompts Reutilizáveis
 
 "Explique o Ichimoku Cloud de forma simples para iniciantes"
+
 "Quais são os principais sinais de compra e venda no Ichimoku?"
+
 "Crie uma estratégia de trading usando Ichimoku Cloud para criptomoedas"
+
 "Quais erros devo evitar ao usar o Ichimoku Cloud?"
+
 "Como combinar Ichimoku com RSI para melhorar entradas?"
