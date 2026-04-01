@@ -4,12 +4,14 @@ O tema escolhido foi o indicador técnico Ichimoku Cloud, uma ferramenta avança
 
 
 🎯 Objetivos de Estudo
+
 Compreender a estrutura do Ichimoku Cloud e seus componentes
 Entender como o indicador funciona na prática
 Conhecer sua origem e desenvolvimento histórico
 Aprender como aplicar o Ichimoku no mercado de criptoativos
 
 📚 Curadoria de Fontes
+
 https://cfi.trade/en/educational-articles/what-is-technical-analysis/how-to-trade-using-ichimoku-kinko-hyo
 https://en.wikipedia.org/wiki/Ichimoku_Kinkō_Hyō
 https://www.slideshare.net/slideshow/history-of-ichimoku/14053365
@@ -66,6 +68,7 @@ Definir contexto (mercado cripto)
 Esses ajustes melhoraram significativamente a qualidade das respostas.
 
 📘 Miniguia de Estudo
+
 📌 1. Resumo Estruturado
 
 O Ichimoku Cloud é um indicador técnico composto por cinco elementos principais:
