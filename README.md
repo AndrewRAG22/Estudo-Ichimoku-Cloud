@@ -1,4 +1,5 @@
 📌 Contexto
+
 O tema escolhido foi o indicador técnico Ichimoku Cloud, uma ferramenta avançada de análise de mercado que permite identificar tendência, suporte/resistência em um gráfico.
 
 
