@@ -12,10 +12,16 @@ Aprender como aplicar o Ichimoku no mercado de criptoativos
 
 📚 Curadoria de Fontes
 
+https://www.youtube.com/watch?v=uKqP7MUOV14
+
 https://cfi.trade/en/educational-articles/what-is-technical-analysis/how-to-trade-using-ichimoku-kinko-hyo
+
 https://en.wikipedia.org/wiki/Ichimoku_Kinkō_Hyō
+
 https://www.slideshare.net/slideshow/history-of-ichimoku/14053365
+
 https://www.fxpro.com/help-section/traders-glossary/ichimoku-kinko-hyo
+
 https://www.investopedia.com/terms/i/ichimoku-cloud.asp
 
 🧠 Engenharia de Prompts e Aprendizados
